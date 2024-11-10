@@ -12,7 +12,7 @@
 <h3 align="center">State Management with Zustand</h3>
 
 <div align="center">
-  <a href="">🌐View live demo🌐</a>
+  <a href="https://zustand-estore.vercel.app/">🌐View live demo🌐</a>
 </div>
   
 </div>
@@ -67,8 +67,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/0ddFl3xx/zustand-ecom-store.git
-cd zustand-ecom-store
+git clone https://github.com/0ddFl3xx/zustand-state-management.git
+cd zustand-state-management
 ```
 
 **Installation**
